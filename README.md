@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/talhaiq24913448" target="blank"><img src="https://img.shields.io/twitter/follow/talhaiq24913448?logo=twitter&style=for-the-badge" alt="talhaiq24913448" /></a> </p>
 
-- 🔭 I’m currently working on **Corona Virus App**
+- 🔭 I’m currently working on **Flutter Internationalization**
 
-- 🌱 I’m currently learning **Flutter GetX**
+- 🌱 I’m currently learning **Flutter Bloc**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
