@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/talhaiq24913448" target="blank"><img src="https://img.shields.io/twitter/follow/talhaiq24913448?logo=twitter&style=for-the-badge" alt="talhaiq24913448" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Internationalization**
+- 🔭 I’m currently working on **Flutter with IOT**
 
-- 🌱 I’m currently learning **Flutter Bloc**
+- 🌱 I’m currently learning...
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects , Problem Solving Related to Mobile Application**
 
 - 🤝 I’m looking for help with **Flutter Projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **italhaiqbal200@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am  really funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
